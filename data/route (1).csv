@@ -1,0 +1,31 @@
+RouteName,OriginStationID,DestinationStationID,TotalDistance
+"Mumbai-Delhi Rajdhani",1,3,1386
+"Delhi-Chennai Grand Trunk",3,5,2180
+"Howrah-Delhi Rajdhani",6,3,1448
+"Mumbai-Chennai Express",1,5,1288
+"Delhi-Bangalore Sampark Kranti",3,7,2370
+"Chennai-Hyderabad Shatabdi",5,8,715
+"Delhi-Kolkata Duronto",3,6,1472
+"Mumbai-Ahmedabad Shatabdi",1,9,491
+"Delhi-Pune Duronto",3,10,1524
+"Chennai-Bangalore Shatabdi",5,7,362
+"Mumbai-Jaipur Superfast",1,11,1145
+"Delhi-Lucknow Shatabdi",3,12,512
+"Kolkata-Patna Rajdhani",6,13,536
+"Mumbai-Nagpur Duronto",1,14,837
+"Delhi-Bhopal Shatabdi",3,15,702
+"Chennai-Coimbatore Shatabdi",5,25,496
+"Delhi-Varanasi Superfast",3,17,764
+"Mumbai-Indore Express",1,16,655
+"Kolkata-Guwahati Rajdhani",6,22,1037
+"Delhi-Amritsar Shatabdi",3,20,448
+"Chennai-Thiruvananthapuram Express",5,27,851
+"Mumbai-Goa Express",1,45,756
+"Delhi-Jammu Tawi Rajdhani",3,39,586
+"Kolkata-Bhubaneswar Rajdhani",6,23,439
+"Mysore-Bangalore Express",29,7,138
+"Hyderabad-Vijayawada Express",8,30,281
+"Delhi-Dehradun Shatabdi",3,36,302
+"Ahmedabad-Rajkot Intercity",9,42,217
+"Patna-Gaya Intercity",13,49,100
+"Nagpur-Bhopal Express",14,15,412

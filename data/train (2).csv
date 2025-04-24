@@ -1,0 +1,31 @@
+TrainName,TrainType,RouteID
+"Rajdhani Express (12951)","Rajdhani",1
+"Grand Trunk Express (12615)","Express",2
+"Howrah Rajdhani (12301)","Rajdhani",3
+"Mumbai Mail (11039)","Express",4
+"Sampark Kranti (12649)","Superfast",5
+"Chennai Shatabdi (12007)","Shatabdi",6
+"Duronto Express (12259)","Express",7
+"Mumbai Shatabdi (12010)","Shatabdi",8
+"Pune Passenger(12269)","Passenger",9
+"Bangalore Shatabdi (12028)","Shatabdi",10
+"Jaipur Superfast (12955)","Superfast",11
+"Lucknow Shatabdi (12004)","Shatabdi",12
+"Patna Rajdhani (12309)","Rajdhani",13
+"Nagpur Passenger (12289)","Passenger",14
+"Bhopal Shatabdi (12001)","Shatabdi",15
+"Coimbatore Shatabdi (12243)","Shatabdi",16
+"Varanasi Superfast (12561)","Superfast",17
+"Indore Express (19301)","Express",18
+"Guwahati Rajdhani (12423)","Rajdhani",19
+"Amritsar Shatabdi (12013)","Shatabdi",20
+"Thiruvananthapuram Express (12695)","Express",21
+"Goa Express (12779)","Express",22
+"Jammu Rajdhani (12425)","Rajdhani",23
+"Bhubaneswar Rajdhani (22811)","Rajdhani",24
+"Mysore Express (12609)","Express",25
+"Vijayawada Express (12703)","Express",26
+"Dehradun Shatabdi (12017)","Shatabdi",27
+"Rajkot Express (12471)","Express",28
+"Gaya Passenger (12351)","Passenger",29
+"Bhopal Express (12155)","Express",30

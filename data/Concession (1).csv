@@ -1,0 +1,11 @@
+ConcessionType,DiscountPercentage
+"Senior Citizen (Male)",40
+"Senior Citizen (Female)",50
+"Student (Male)",25
+"Student (Female)",30
+"Divyang (Disabled)",50
+"Armed Forces",30
+"Freedom Fighters",75
+"Railway Employees",75
+"Press Correspondents",50
+"Patients (Cancer/TB)",75
